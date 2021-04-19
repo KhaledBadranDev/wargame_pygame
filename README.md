@@ -1,2 +1,13 @@
+
+### AUTHOR: Khaled Badran
+
+
 # wargame
-wargame python
+
+This is a wargame made with python with pygame.<br>
+
+
+## Requirements:
+
+- python 3
+- pygame
