@@ -4,7 +4,7 @@
 
 # wargame
 
-This is a wargame made with python with pygame.<br>
+This is a wargame made in python with pygame.<br>
 
 
 ## Requirements:
